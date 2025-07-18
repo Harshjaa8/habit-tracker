@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const MONGO_DB_URL = "mongodb+srv://harshjaa892:speeddemonking@cluster0.2qjiqt3.mongodb.net";
+const MONGO_DB_URL = "mongodb_link";
 const DB_NAME = "habit-app";
 
 const connectDb = async () => {
